@@ -1,0 +1,12 @@
+Installation Utility for the Intel(R) Graphics Media Accelerator Driver
+List of flags:
+     -?			This help dialog
+     -b			Reboot the system after installation is complete
+     -l <Number>		Specify the language used
+     -nowel		Does not display welcome screen
+     -nolic		Does not display license screen
+     -noread		Does not display readme screen
+     -s			Silent install
+     -overwrite		Ignore overwrite error
+     -f2 <path>		Change default log path
+     -res <HxVxCxR>  	Set resolution where H = Horizontal bits, V = Vertical bits, C = Color bits, R = Refresh Rate)
